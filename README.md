@@ -14,7 +14,7 @@ This project performs a comprehensive statistical analysis on the COVID-19 datas
 
 ---
 
-## 🛠️ Tools & Libraries:
+## Tools & Libraries:
 - Python  
 - Pandas  
 - NumPy  
@@ -25,7 +25,7 @@ This project performs a comprehensive statistical analysis on the COVID-19 datas
 
 ---
 
-## 📊 Key Analyses & Visualizations:
+## Key Analyses & Visualizations:
 - 7-day moving average for top countries  
 - Country-wise death rate comparison  
 - Distribution plots for daily new cases  
@@ -34,7 +34,7 @@ This project performs a comprehensive statistical analysis on the COVID-19 datas
 
 ---
 
-## 📁 Features in Dataset:
+## Features in Dataset:
 
 - **date** - Date of observation in YYYY-MM-DD format  
 - **country** - Name of the country  
@@ -54,7 +54,7 @@ This project performs a comprehensive statistical analysis on the COVID-19 datas
 
 ---
 
-## 🚀 How to Run:
+## How to Run:
 1. Clone or download this repository  
 2. Open the notebook (`COVID19_Statistical_Analysis.ipynb`) in Jupyter Notebook or Colab  
 3. Run the cells one by one to see the analysis and visualizations  
@@ -69,7 +69,7 @@ The dataset used in this project consists of two CSV files extracted from Worldo
 ---
 
 ## 🤝 Connect with Me:
-- LinkedIn: [Tajwinder Singh](https://www.linkedin.com/in/tajwinder-singh)  
+- LinkedIn: [Tajwinder (Taj) Singh](https://www.linkedin.com/in/tajwinder-singh)  
 - GitHub: [tajwinder-singh](https://github.com/tajwinder-singh)
 
 If this project helped you, consider giving a ⭐ on the repository and sharing your feedback!
