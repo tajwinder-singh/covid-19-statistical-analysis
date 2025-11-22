@@ -1,11 +1,17 @@
-# 🦠 COVID-19 Statistical Analysis Project
+# COVID-19 Statistical Analysis Project
 
-## 📌 Overview  
+---
+
+<img width="538" height="452" alt="Screenshot 2025-11-22 151745" src="https://github.com/user-attachments/assets/5951c7e5-df44-468e-b066-fb438dc2ad33" />
+
+---
+
+## Overview  
 This project performs a comprehensive statistical analysis on the COVID-19 dataset, focusing on trends, relationships, and statistical significance across countries and continents. Visualizations and hypothesis testing are applied to draw insights from daily and cumulative data.
 
 ---
 
-## 🎯 Objectives:
+## Objectives:
 - Perform **continent-wise and country-wise** analysis of COVID-19 cases  
 - Understand **seasonal patterns** in the top affected countries  
 - Analyze **correlation between multiple features** using Chi-Square contingency  
@@ -61,7 +67,7 @@ This project performs a comprehensive statistical analysis on the COVID-19 datas
 
 ---
 
-## 📁 Dataset:
+## Dataset:
 The dataset used in this project consists of two CSV files extracted from Worldometer data:
 - `worldometer_coronavirus_daily_data.csv`  
 - `worldometer_coronavirus_summary_data.csv`
